@@ -1,0 +1,9 @@
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.csprojAssemblyReference.cache
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.AssemblyInfoInputs.cache
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.AssemblyInfo.cs
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.csproj.CoreCompileInputs.cache
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoppingApp.DL.deps.json
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoppingApp.DL.dll
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoppingApp.DL.pdb
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.dll
+C:\Users\Naroumi\source\repos\OnlineShoppingApp\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoppingApp.DL.pdb
